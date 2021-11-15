@@ -2,9 +2,20 @@
 Papers about hypergraph, their applications, and even similar ideas.
 
 ## 2022
-- [ICLR 2022 underreview] [**Hypergraph Convolutional Networks via Equivalency between Hypergraphs and Undirected Graphs**](https://openreview.net/forum?id=zFyCvjXof60)
+- [ICLR 2022 under review] [**Hypergraph Convolutional Networks via Equivalency between Hypergraphs and Undirected Graphs**](https://openreview.net/forum?id=zFyCvjXof60)
+- [ICLR 2022 under review] [**TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting**](https://openreview.net/forum?id=wv6g8fWLX2q)
+- [ICLR 2022 under review] [**A molecular hypergraph convolutional network with functional group information**](https://openreview.net/forum?id=jPwC2MMI85Y)
+- [ICLR 2022 under review] [**You are AllSet: A Multiset Function Framework for Hypergraph Neural Networks**](https://openreview.net/forum?id=hpBTIv2uy_E)
+- [ICLR 2022 under review] [**MULTI-LEVEL APPROACH TO ACCURATE AND SCALABLE HYPERGRAPH EMBEDDING**](https://openreview.net/forum?id=a4W0tSTN9Kn)
+- [ICLR 2022 under review] [**GRAPH CONDENSATION FOR GRAPH NEURAL NETWORKS**](https://openreview.net/forum?id=WLEx3Jo4QaB)
+- [ICLR 2022 under review] [**Efficient Training and Inference of Hypergraph Reasoning Networks**](https://openreview.net/forum?id=WKWAkkXGpWN)
+- [ICLR 2022 under review] [**On the Expressiveness and Learning of Relational Neural Networks on Hypergraphs**](https://openreview.net/forum?id=HRF6T1SsyDn)
+- [ICLR 2022 under review] [**FEATURE-AUGMENTED HYPERGRAPH NEURAL NETWORKS**](https://openreview.net/forum?id=GrJDb8KXPA3)
+- [ICLR 2022 under review] [**Pruning Edges and Gradients to Learn Hypergraphs from Larger Sets**](https://openreview.net/forum?id=7Z7u2z1Ornl)
 
 ## 2021
+- [ICLR 2022] [**Pruning Edges and Gradients to Learn Hypergraphs from Larger Sets**](https://openreview.net/forum?id=7Z7u2z1Ornl)
+- [openreview 2021] [**DyHCN: Dynamic Hypergraph Convolutional Networks**](https://openreview.net/forum?id=Bx05YH2W8bE)
 - [arxiv 2021] [**Detecting informative higher-order interactions in statistically validated hypergraphs**](https://www.nature.com/articles/s42005-021-00710-4)
 - [arxiv 2021] [**The physics of higher-order interactions in complex systems**](https://www.nature.com/articles/s41567-021-01371-4)
 - [arxiv 2021] [**Love tHy Neighbour: Remeasuring Local Structural Node Similarity in Hypergraph-Derived Networks**](http://arxiv.org/abs/2111.00256)
@@ -19,10 +30,10 @@ Papers about hypergraph, their applications, and even similar ideas.
 - [arxiv 2021] [**A Hypergraph Convolutional Neural Network for Molecular Properties Prediction using Functional Group**](http://arxiv.org/abs/2106.01028)
 - [arxiv 2021] [**What are higher-order networks?**](http://arxiv.org/abs/2104.11329)
 - [arxiv 2021] [**Higher-order Network Analysis Takes Off, Fueled by Classical Ideas and New Data**](http://arxiv.org/abs/2103.05031)
-- [openreview 2021] [**DyHCN: Dynamic Hypergraph Convolutional Networks**](https://openreview.net/forum?id=Bx05YH2W8bE)
 - [WWW 2021] [**Multiplex Bipartite Network Embedding using Dual Hypergraph Convolutional Networks**](https://dl.acm.org/doi/10.1145/3442381.3449954)
 - [WWW 2021] [**Multi-level Hyperedge Distillation for Social Linking Prediction on Sparsely Observed Networks**](https://dl.acm.org/doi/10.1145/3442381.3449912)
 - [WWW 2021] [**Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation**](http://arxiv.org/abs/2101.06448)
+- [WSDM 2021] [**Heterogeneous Hypergraph Embedding for Graph Classification**](https://dl.acm.org/doi/10.1145/3437963.3441835)
 - [SDM 2021] [**Session-based Recommendation with Hypergraph Attention Networks**](https://epubs.siam.org/doi/10.1137/1.9781611976700.10)
 - [Neurips 2021] [**Transformers Generalize DeepSets and Can be Extended to Graphs and Hypergraphs**](http://arxiv.org/abs/2110.14416)
 - [Neurips 2021] [**Edge Representation Learning with Hypergraphs**](http://arxiv.org/abs/2106.15845)
@@ -31,8 +42,10 @@ Papers about hypergraph, their applications, and even similar ideas.
 - [CIKM 2021] [**Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation**](http://arxiv.org/abs/2109.04200)
 - [CIKM 2021] [**Click-Through Rate Prediction with Multi-Modal Hypergraphs**](http://arxiv.org/abs/2109.02398)
 - [AAAI 2021] [**Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation**](https://arxiv.org/abs/2012.06852)
+- [AAAI 2021] [**Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach**](https://ojs.aaai.org/index.php/AAAI/article/view/16127)
 
 ## 2020
+- [arxiv 2020] [**HyperSAGE: Generalizing Inductive Representation Learning on Hypergraphs**](http://arxiv.org/abs/2010.04558)
 - [arxiv 2020] [**Hypergraph Convolution and Hypergraph Attention**](http://arxiv.org/abs/1901.08150)
 - [WWW 2020] [**How Much and When Do We Need Higher-order Information in Hypergraphs? A Case Study on Hyperedge Prediction**](https://dl.acm.org/doi/10.1145/3366423.3380016)
 - [TPAMI 2020] [**Hypergraph Learning: Methods and Practices**](https://ieeexplore.ieee.org/document/9264674/)
@@ -40,13 +53,13 @@ Papers about hypergraph, their applications, and even similar ideas.
 - [Neurips 2020] [**Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs**](https://proceedings.neurips.cc/paper/2020/hash/217eedd1ba8c592db97d0dbe54c7adfc-Abstract.html)
 - [Neurips 2020] [**Subgraph Neural Networks**](http://arxiv.org/abs/2006.10538)
 - [KDD 2020] [**Hypergraph Convolutional Recurrent Neural Network**](https://dl.acm.org/doi/10.1145/3394486.3403389)
+- [ICML 2020] [**HNHN: Hypergraph Networks with Hyperedge Neurons**](http://arxiv.org/abs/2006.12278)
 - [EMNLP 2020] [**Be More with Less: Hypergraph Attention Networks for Inductive Text Classification**](https://www.aclweb.org/anthology/2020.emnlp-main.399)
 - [ACM MM 2020] [**AdaHGNN: Adaptive Hypergraph Neural Networks for Multi-Label Image Classification**](https://dl.acm.org/doi/10.1145/3394171.3414046)
 - [AAAI 2020] [**Hypergraph Label Propagation Network**](https://aaai.org/ojs/index.php/AAAI/article/view/6170)
 
 ## 2019
 - [arxiv 2019] [**Exploring High-Order Correlations for Industry Anomaly Detection**](https://ieeexplore.ieee.org/document/8684782/)
-- [arxiv 2019] [**Molecular Hypergraph Grammar with Its Application to Molecular Optimization**](nan)
 - [Neurips 2019] [**HyperGCN: A New Method of Training Graph Convolutional Networks on Hypergraphs**](https://papers.nips.cc/paper/2019/hash/1efa39bcaec6f3900149160693694536-Abstract.html)
 - [KDD 2019] [**HATS: A Hierarchical Sequence-Attention Framework for Inductive Set-of-Sets Embeddings**](https://dl.acm.org/doi/10.1145/3292500.3330876)
 - [IJCAI 2019] [**Dynamic Hypergraph Neural Networks**](https://www.ijcai.org/proceedings/2019/366)
